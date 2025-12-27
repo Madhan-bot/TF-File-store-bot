@@ -12,7 +12,7 @@ API_HASH = os.environ.get("API_HASH", "3c2a9654081a4c96f441f6ff0d633b58")
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "5533100886"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://Anime11tamil:Anime11tamil_4321@cluster0.rmp2lb3.mongodb.net/?appName=Cluster0")
-DB_NAME = os.environ.get("DB_NAME", "Anime 11tamil")
+DB_NAME = os.environ.get("DB_NAME", "Anime11tamil")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001945519823"))
